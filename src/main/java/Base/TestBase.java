@@ -40,3 +40,6 @@ public class TestBase {
 //parameterization
 //1. credential :-Property File
 //2. Test Data :-Excel File
+
+//I push the code on github
+//now Everyone access the code
